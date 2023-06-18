@@ -7,7 +7,7 @@ This is a project in Analog Electronics Design. It had the certain requirements:
 <br>
 
 ## The Result AC Characteristics
-![Frequecny Response](Freq_Res.png)
+![Frequecny Response](https://drive.google.com/uc?id=1BdJmQOG1fS38c9TxAW7buWIZLeK6rv1T)
 
 <br>
 
